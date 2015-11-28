@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+import(mvtnorm, stats, ssanv, parallel)
+importFrom("graphics", "barplot")
+export(global.1m.analysis, indiv.1m.analysis, global.1m.ssc, bonferroni.1m.ssc, indiv.1m.ssc, indiv.rm.ssc)
+S3method(plot, rPower)
