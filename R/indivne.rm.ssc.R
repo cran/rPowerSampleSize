@@ -465,9 +465,9 @@
         }
     } else { 
         # q-gFWER control; see Theorem 3.1 p. 6 in Romano (2006). It is described in our Example 2.10 p. 4.
-        if (q < m){
+        if (q < m) {
             alphais <- c(rep(q / m, q), q / ((m - 1):q))
-            alphadblepprime <- alpha * alphais
+            alphadbleprime <- alpha * alphais
             if (asympt) {
                 h <- qnorm(1 - rev(alphadbleprime))
             } else {

@@ -1,4 +1,4 @@
-5844c2628122162943ddaa973410f709 *DESCRIPTION
+1ecb7b60ca7b632d3cbca5e21396268a *DESCRIPTION
 2c8c71aefa0486fc69b91101f28813e8 *NAMESPACE
 695b295db49926f306d8853cdbb2fc25 *R/bonferroni.1m.ssc.R
 e06688b7aaef8feb35775f516d6b407c *R/complexity.R
@@ -9,7 +9,7 @@ f6306b81be30c2e3ce7abd2b42af6cc9 *R/indiv.1m.analysis.R
 77ab590f21816c6cece6fd0e37a149e0 *R/indiv.analysis.R
 b25758613bb116e45a2d432973af9319 *R/indiv.rm.ssc.R
 b11812347e3fc0a077e015b393650a44 *R/indive.rm.ssc.R
-133e49839b05d35d98776a4d090d6360 *R/indivne.rm.ssc.R
+ea14fb0a3256fcb334399d0627cfd924 *R/indivne.rm.ssc.R
 d166ae044f04ee8c908a2e5b5ad2861c *R/montecarlo.R
 3af30552816e052dd3927f8c0709d17c *R/plot.rPower.R
 85d4b251405a38159c625260284d4d7c *data/data.sim.rda
