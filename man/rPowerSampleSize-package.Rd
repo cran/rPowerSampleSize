@@ -27,7 +27,7 @@ LazyLoad: \tab yes\cr
 
 \author{
 Pierre Lafaye de Micheaux, Benoit Liquet and Jeremie Riou
-Maintainer: Pierre Lafaye de Micheaux <lafaye@dms.umontreal.ca> 
+Maintainer: Pierre Lafaye de Micheaux <lafaye@unsw.edu.au> 
 }
 
 \keyword{package}
